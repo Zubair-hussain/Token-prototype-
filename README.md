@@ -1,8 +1,4 @@
 
-
-# (Wallet Token Prototype)
-
-
 # Wallet Token Prototype
 
 This is a **prototype web app + backend** that demonstrates how a digital pass (e.g., medical or payment pass) can be issued to patients after a Stripe payment and then added to **Apple Wallet** or **Google Wallet**.
@@ -139,3 +135,4 @@ npm run dev
 **Zubair Hussain**
 Full Stack Developer | Data Analyst | Video Editor
 Portfolio: [zubair-hussain-portfolio-hpne.vercel.app](https://zubair-hussain-portfolio-hpne.vercel.app)
+
